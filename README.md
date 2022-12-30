@@ -1,4 +1,13 @@
 # Sudoku Solver
+## Created By: Bryan Murphy and Kyle Sterling
+## Description
+This Sudoku Solver provides a blank board where the user adds the numbers from their puzzle. After doing so the user and hit the solve button where the rest of the missing numbers from the puzzle will be filled in.
+#
+## Project Takeaways
+- GUI creation
+- Data Structures
+- Project planning
+#
 
 ## Running Sudoku Solver
 The following are needed to run the program:
