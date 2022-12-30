@@ -10,6 +10,7 @@ This Sudoku Solver provides a blank board where the user adds the numbers from t
 #
 
 ## Running Sudoku Solver
+Please note the following steps are to run this program in Eclipse IDE
 The following are needed to run the program:
 - JavaFX javafx-sdk-11.0.2
 
