@@ -1,5 +1,5 @@
 # Sudoku Solver
-## Created By: Bryan Murphy and Kyle Sterling
+#### Created By: Bryan Murphy and Kyle Sterling
 ## Description
 This Sudoku Solver provides a blank board where the user adds the numbers from their puzzle. After doing so the user and hit the solve button where the rest of the missing numbers from the puzzle will be filled in.
 #
@@ -9,12 +9,14 @@ This Sudoku Solver provides a blank board where the user adds the numbers from t
 - Project planning
 #
 
+## Prerequisites
+Before running the program, make sure you have the following installed:
+- JavaFX javafx-sdk-11.0.2
+
 ## Running Sudoku Solver
+Before running Sudoku Solver, the JavaFX library must be properly installed into Eclipse.
 
-> :warning: **Before running the program**, make sure that you have JavaFX javafx-sdk-11.0.2 installed on your machine. :computer:
-
-
-Here are the steps to run the program in Eclipse IDE:
+Here are the steps to insall JavaFX:
 
 1. Create a new folder and move the JavaFX sdk into it to keep it secure.
 2. Open a new text document and copy the path to the JavaFX\lib folder:
