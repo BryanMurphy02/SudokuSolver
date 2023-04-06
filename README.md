@@ -11,7 +11,8 @@ This Sudoku Solver provides a blank board where the user adds the numbers from t
 
 ## Running Sudoku Solver
 
-Before running the program, make sure that you have JavaFX javafx-sdk-11.0.2 installed on your machine.
+> :warning: **Before running the program**, make sure that you have JavaFX javafx-sdk-11.0.2 installed on your machine. :computer:
+
 
 Here are the steps to run the program in Eclipse IDE:
 
