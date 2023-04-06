@@ -22,7 +22,7 @@ Here are the steps to run the program in Eclipse IDE:
    - Click on the address bar at the top of the window to highlight it.
    - Copy the highlighted path to the clipboard.
 3. In the text document, paste the following line, replacing "JavaFX Path\lib" with the path copied in step 2:
-```
+```bash
 --module-path "JavaFX Path\lib" 
 --add-modules javafx.controls,javafx.fxml,javafx.media
 ```
